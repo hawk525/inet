@@ -39,14 +39,13 @@
 
 ## ✅ Лабораторная работа № 3
 Прохождение курса лабораторных работ по сетям в Cisco Packet Tracer.
-1. [ЛР1 задание](https://docs.google.com/document/d/1cJFwm6kMKQTv12WLR1uhDJseGwW1KAmA/edit?usp=sharing&ouid=102264053550050656296&rtpof=true&sd=true)
+1. [ЛР1 задание](https://drive.google.com/file/d/1JkvPqLwpUs1PyHpcG3rU3GngdKwy6Dgj/view?usp=sharing)
 2. [ЛР2 задание](https://docs.google.com/document/d/1F4IvXc3AsNB0wd3Gz446ecSqboWkhueB/edit?usp=sharing&ouid=102264053550050656296&rtpof=true&sd=true)
 3. [ЛР3 задание](https://docs.google.com/document/d/1Lx6jYl_QT7X5AHZCYpJxqEJ8-3us7r6E/edit?usp=sharing&ouid=102264053550050656296&rtpof=true&sd=true)
-4. [ЛР4 задание](https://drive.google.com/file/d/1JkvPqLwpUs1PyHpcG3rU3GngdKwy6Dgj/view?usp=sharing)
 ### Результат
-1. [Отчет](https://docs.google.com/document/d/13vx60Xh5a4yglFQT8tQ4ZY7qpYQc9F-g/edit?usp=sharing&ouid=102264053550050656296&rtpof=true&sd=true)
-2. [ЛР2 задание](https://docs.google.com/document/d/1F4IvXc3AsNB0wd3Gz446ecSqboWkhueB/edit?usp=sharing&ouid=102264053550050656296&rtpof=true&sd=true)
-3. [ЛР3 задание](https://docs.google.com/document/d/1Lx6jYl_QT7X5AHZCYpJxqEJ8-3us7r6E/edit?usp=sharing&ouid=102264053550050656296&rtpof=true&sd=true)
+1. [Отчет](https://docs.google.com/document/d/1F3EBgvBKWyr-VIFYFAHUUTHBEiK1fj-H/edit?usp=sharing&ouid=102264053550050656296&rtpof=true&sd=true) и [файл](https://github.com/hawk525/inet/blob/main/LR2_Terentev.pkt)
+2. [часть 1](https://github.com/hawk525/inet/blob/main/lab2part1.pkt) [часть 2](https://github.com/hawk525/inet/blob/main/lab2part2izm.pkt)
+3. [файл](https://github.com/hawk525/inet/blob/main/3_laba.pkt)
 4. [ЛР4 задание](https://drive.google.com/file/d/1JkvPqLwpUs1PyHpcG3rU3GngdKwy6Dgj/view?usp=sharing)
 ## ✅ Экзаменационный билет №1
 
