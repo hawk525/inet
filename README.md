@@ -50,4 +50,5 @@
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №1](https://github.com/stankin/inet-2022/wiki/exam01)
+
 Ссылка на сравнение ревизий: [ссылка](https://github.com/stankin/inet-2022/wiki/exam01/_compare/45ae47b123db2003350d9b57cfbc1e7966ffdc6c...d5472e7fc7af52edcde614b8af432f554903124d)
